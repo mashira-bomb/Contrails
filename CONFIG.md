@@ -3,19 +3,20 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+mashira-feed
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+マシラカスタムtwstフィード
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+マシラの見たい内容が流れてくるtwstフィードです。
+ディアソの腐・ファンアートが雑多に流れます。
 
 # searchTerms
 
@@ -26,11 +27,7 @@ Cute animals feed
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- “twst”|- “ツイステ”|- “セベク”|- “シルバー”|- “リリア”|- “マレウス”|- “セベシル”|- “シルセベ”|- “マレシル”|- “紅銀親子”|- “紅銀”|- “親子”|- “リリシル”|- twst -cos|- twst -コス|- ツイステ -cos|- ツイステ -コス|- twst -ぬい|- ツイステ -ぬい
 
 # denyList
 
@@ -45,7 +42,7 @@ Cute animals feed
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
